@@ -19,7 +19,7 @@ Source: https://www.kaggle.com/datasets/abtinzandi/obstacle-detection-dataset
 
 |           Metric          |  SimCLR  |    MAE     |
 |---------------------------|----------|------------|
-| Linear Probe Accuracy     | 89.66%   | 41.19%.    |
+| Linear Probe Accuracy     | 81.66%   | 41.19%.    |
 | Silhouette Score          | 0.0490   | -0.3254    |
 | Semantic Consistency      | 0.8900   | 0.6212     |
 | Training Time (40 epochs) | ~4 hours | ~1.5 hours |
